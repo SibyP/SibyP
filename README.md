@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SibyP
-- 👀 I’m interested in Python (Quality Assurance and Testing) and Drawing.
+- 👀 I’m interested in Python (Quality Assurance and Testing).
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python Projects dealing with Testing routines.
 - 📫 How to reach me via GitHub Profile.
